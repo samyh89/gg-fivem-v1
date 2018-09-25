@@ -45,7 +45,7 @@ Config.FBIStations = {
 		  { name = 'fbi',  label = 'FBI BMW' },
 		  { name = 'fbi2',    label = 'FBI Ford' },
 		  { name = 'police4',   label = 'FBI Audi' },
-		  { name = 'sheriff2',      label = 'Skoda' },
+		  { name = 'sheriff2',      label = 'Skoda Unmarked' },
 	  },
 
     Cloakrooms = {

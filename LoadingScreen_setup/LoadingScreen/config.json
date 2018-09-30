@@ -1,16 +1,16 @@
 [
 	{
-		"useBackgroundColour" : "true",
+		"useBackgroundColour" : "false",
 		"backgroundColour" : "20,20,20",
-		"useBackgroundImage" : "false",
-		"backgroundImagePath" : "images/backgroundImg7.jpg",
+		"useBackgroundImage" : "true",
+		"backgroundImagePath" : "images/backgroundImg99.jpg",
 		"useTextColour" : "false",
 		"textColour" : "0,0,0",
 		"useBoldText" : "false",
-		"serverTitle" : "Insert Server Name Here",
+		"serverTitle" : "Testiservu v0.9",
 		"playAudioInBackground" : "true",
 		"audioPath" : "audio/gtavthemesong.ogg",
-		"audioVolume" : "0.5"
+		"audioVolume" : "0.2"
 	},
 	{
 		"rule1" : "Do not RDM or VDM",
@@ -22,7 +22,7 @@
 		"rule7" : "Use common sense"
 	},
 	{
-		"servers1" : "Website: www.asdf.com",
+		"servers1" : "Nettisivu: www.asdf.com",
 		"servers2" : "Teamspeak: 123.45.67.8",
 		"servers3" : "Discord: http://discord.gg/asdf123",
 		"servers4" : "",

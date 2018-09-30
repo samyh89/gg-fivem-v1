@@ -86,7 +86,7 @@ Config.CartelStations = {
     },
 
     BossActions = {
-      { x = -873.6, y = 189.52, z = 69.45 },
+      { x = -873.6, y = 189.52, z = 69.25 },
     },
 
   },

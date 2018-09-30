@@ -2,7 +2,7 @@ Citizen.CreateThread(function()
 	while true do
 		Citizen.Wait(0)
 
-		if GetKeyJustPressed(173) and not IsController() then
+		if IsKeyJustPressed(173) then
 			Citizen.CreateThread(function()
 				local entity = PlayerPedId()
 				if IsPedInAnyVehicle(entity, false) then

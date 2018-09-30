@@ -16,14 +16,6 @@ Config.CartelStations = {
 
   Cartel = {
 
-    Blip = {
-      Pos     = { x = -890.4, y = 179.24, z = 69.45 },
-      Sprite  = 60,
-      Display = 4,
-      Scale   = 1.2,
-      Colour  = 29,
-    },
-
     AuthorizedWeapons = {
       { name = 'WEAPON_SAWNOFFSHOTGUN',       price = 9000 },
       { name = 'WEAPON_PISTOL50',     price = 30000 },
